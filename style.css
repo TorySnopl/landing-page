@@ -39,9 +39,31 @@
 .three {
     display: flex;
     flex-wrap: wrap;
+    padding: 50px;
 }
 .three h2 {
     font-size: 36px;
     font-weight: 800;
     flex: 1;
+    
+}
+.three p {
+   
+    order: 2;
+    margin: 8px;
+    flex: 1;
+}
+.three img {
+    
+    margin: 8px;
+    flex: 1;
+}
+.four {
+    background-color: lightgrey;
+    padding: 50px;
+}
+.quote {
+    font-style: italic;
+    font-size: 36px;
+    color: black;
 }
