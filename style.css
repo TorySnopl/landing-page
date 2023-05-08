@@ -45,18 +45,19 @@
     font-size: 36px;
     font-weight: 800;
     flex: 1;
+    align-self: flex-start;
     
 }
 .three p {
    
-    order: 2;
-    margin: 8px;
+     margin: 8px;
     flex: 1;
 }
 .three img {
     
     margin: 8px;
     flex: 1;
+    
 }
 .four {
     background-color: lightgrey;
