@@ -67,3 +67,19 @@
     font-size: 36px;
     color: black;
 }
+footer {
+    background-color: #3882F6;
+    display: flex;
+    margin: 8px 50px 2px 50px;
+    padding: 16px;
+}
+footer p {
+    text-align: center;
+    flex: 1;
+}
+footer a {
+    color: lightgrey;
+}
+footer a:hover {
+    color: red;
+}
